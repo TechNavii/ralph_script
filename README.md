@@ -50,6 +50,3 @@ This project was influenced by:
 - [ghuntley/ralph](https://ghuntley.com/ralph/)
 - [Anthropic: Effective Harnesses for Long-Running Agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 
-## License
-
-MIT
